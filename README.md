@@ -123,9 +123,9 @@ After seeding the database, you can log in with these default accounts:
 
 | Role     | Email             | Password    |
 | -------- | ----------------- | ----------- |
-| Admin    | admin@npcl.com    | admin123    |
-| Operator | operator@npcl.com | operator123 |
-| Viewer   | viewer@npcl.com   | viewer123   |
+| Admin    | admin@npcl.com    | ******      |
+| Operator | operator@npcl.com | ******      |
+| Viewer   | viewer@npcl.com   | ******      |
 
 ## Available Scripts
 
